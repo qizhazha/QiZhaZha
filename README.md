@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## QiZhaZha
+企渣渣-行业关系管理工具名单库，欢迎大家共享上传各行业名单，供所有人参考！
+
+## 免责声明
+本项目由网友自行上传共享，其真实性和有效性需自行甄别。
